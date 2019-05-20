@@ -14,3 +14,6 @@ and Similar like a python dictionary and the keys are separated by the values us
 *** To access the data you first need to load it into python as a specific python datatype, later you access the data from the datatype.
 '''
 Rest the program working, application is explained within the dictScript.py file where a novice or a begineer can understand it easily.
+P.S: Make Sure the dataScript.py and JSON file should be in same folder.... Enjoy....
+(Modifications are invited: We can add a module which works like:
+ When a word or it's meaning (or both) is not available it'll ask the user to add the word and meaning or can auto- scrap the webdata for dictionary and add the data file.
